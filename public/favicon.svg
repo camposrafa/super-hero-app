@@ -1,0 +1,8 @@
+<svg width="166" height="166" viewBox="0 0 166 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="166" height="166" rx="32" fill="#0B0D12"/>
+<path d="M83 13L143 44V91C143 119 119 143 83 153C47 143 23 119 23 91V44L83 13Z" fill="#151923" stroke="#F5C84C" stroke-width="8"/>
+<path d="M83 36L123 57V89C123 109 106 126 83 134C60 126 43 109 43 89V57L83 36Z" fill="#E11D2F"/>
+<path d="M83 51L101 88H65L83 51Z" fill="#F8FAFC"/>
+<path d="M83 74L93 96H73L83 74Z" fill="#151923"/>
+<text x="83" y="118" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" text-anchor="middle">AEL</text>
+</svg>
